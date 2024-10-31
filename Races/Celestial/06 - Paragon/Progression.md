@@ -1,0 +1,31 @@
+# Paragon Progression
+
+- [ ] `ProgressionType` [2]() at level [1](), [3](), [5](), [7](), [9]() and [11]()
+- [ ] Level [1](), grants [5]() `Passives` :
+    - [ ] RotER_Paragon_Base_Racial_Speed `Passive` ( Replaces Base Racial Speed `Passive` )
+    - [ ] RotER_Paragon_Truesight `Passive` ( Replaces Darkvision `Passive` )
+    - [ ] RotER_Paragon_Divine_Awareness `Passive`
+    - [ ] RotER_Paragon_Resilience `Passive` ( Replaces Resilience `Passive` )
+    - [ ] RotER_Paragon_Magical_Weapons `Passive`
+- [ ] Level [3](), grants [5]() `Boosts` :
+    - [ ] `Ability(Charisma, 2)`
+    - [ ] `Ability(Constitution, 4)`
+    - [ ] `Ability(Wisdom, 1)`
+    - [ ] `Skill(Perception, 1)`
+    - [ ] `Skill(Persuasion, 4)`
+- [ ] Level [5](), grants [1]() `Boost` :
+    - [ ] `IncreaseMaxHP(10)`
+- [ ] Level [7](), grants [5]() `Boosts` :
+    - [ ] `Ability(Charisma, 3)`
+    - [ ] `Ability(Constitution, 4)`
+    - [ ] `Ability(Wisdom, 2)`
+    - [ ] `Skill(Perception, 2)`
+    - [ ] `Skill(Persuasion, 4)`
+- [ ] Level [9](), grants [1]() `Boost` :
+    - [ ] `IncreaseMaxHP(10)`
+- [ ] Level [11](), grants [5]() `Boosts` :
+    - [ ] `Ability(Charisma, 3)`
+    - [ ] `Ability(Constitution, 4)`
+    - [ ] `Ability(Wisdom, 2)`
+    - [ ] `Skill(Perception, 2)`
+    - [ ] `Skill(Persuasion, 5)`

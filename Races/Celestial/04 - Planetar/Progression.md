@@ -1,0 +1,28 @@
+# Planetar Progression
+
+- [ ] `ProgressionType` [2]() at level [1](), [3](), [5](), [7](), [9]() and [11]()
+- [ ] Level [1](), grants [4]() `Passives` :
+    - [ ] RotER_Planetar_Base_Racial_Speed `Passive` ( Replaces Base Racial Speed `Passive` )
+    - [ ] RotER_Planetar_Truesight `Passive` ( Replaces Darkvision `Passive` )
+    - [ ] RotER_Planetar_Divine_Awareness `Passive`
+    - [ ] RotER_Planetar_Celestial_Weapons_Lvl_1 `Passive`
+- [ ] Level [3](), grants [1]() `Passive` and [2]() `Boosts` :
+    - [ ] RotER_Planetar_Celestial_Weapons_Lvl_2 `Passive` ( Replaces Lv.1 `Passive` )
+    - [ ] `Ability(Charisma, 1)`
+    - [ ] `Ability(Constitution, 4)`
+- [ ] Level [5](), grants [1]() `Passive` :
+    - [ ] RotER_Planetar_Celestial_Weapons_Lvl_3 `Passive` ( Replaces Lv.2 `Passive` )
+- [ ] Level [7](), grants [1]() `Passive` and [4]() `Boosts` :
+    - [ ] RotER_Planetar_Celestial_Weapons_Lvl_4 `Passive` ( Replaces Lv.3 `Passive` )
+    - [ ] `Ability(Charisma, 1)`
+    - [ ] `Ability(Constitution, 4)`
+    - [ ] `Ability(Wisdom, 1)`
+    - [ ] `Skill(Perception, 1)`
+- [ ] Level [9](), grants [1]() `Passive` :
+    - [ ] RotER_Planetar_Celestial_Weapons_Lvl_5 `Passive` ( Replaces Lv.4 `Passive` )
+- [ ] Level [11](), grants [1]() `Passive` and [4]() `Boosts` :
+    - [ ] RotER_Planetar_Celestial_Weapons_Lvl_6 `Passive` ( Replaces Lv.5 `Passive` )
+    - [ ] `Ability(Charisma, 1)`
+    - [ ] `Ability(Constitution, 4)`
+    - [ ] `Ability(Wisdom, 1)`
+    - [ ] `Skill(Perception, 1)`

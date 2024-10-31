@@ -1,0 +1,33 @@
+# Empyrean Progression
+
+- [ ] `ProgressionType` [2]() at level [1](), [3](), [5](), [7](), [9]() and [11]()
+- [ ] Level [1](), grants [3]() `Passives` and removes [1]() `Passive` :
+    - [ ] RotER_Empyrean_Base_Racial_Speed `Passive` ( Replaces Base Racial Speed `Passive` )
+    - [ ] RotER_Empyrean_Truesight `Passive` ( Replaces Darkvision `Passive` )
+    - [ ] RotER_Empyrean_Magical_Weapons `Passive`
+    - [ ] [LOSES]() RotER_Celestial_Resilience `Passive`
+- [ ] Level [3](), grants [6]() `Boosts` :
+    - [ ] `Ability(Charisma, 2)`
+    - [ ] `Ability(Intelligence, 4)`
+    - [ ] `Ability(Strength, 5)`
+    - [ ] `Ability(Wisdom, 1)`
+    - [ ] `Skill(Insight, 4)`
+    - [ ] `Skill(Persuasion, 6)`
+- [ ] Level [5](), grants [1]() `Boost` :
+    - [ ] `IncreaseMaxHP(10)`
+- [ ] Level [7](), grants [6]() `Boosts` :
+    - [ ] `Ability(Charisma, 2)`
+    - [ ] `Ability(Intelligence, 4)`
+    - [ ] `Ability(Strength, 6)`
+    - [ ] `Ability(Wisdom, 1)`
+    - [ ] `Skill(Insight, 4)`
+    - [ ] `Skill(Persuasion, 5)`
+- [ ] Level [9](), grants [1]() `Boost` :
+    - [ ] `IncreaseMaxHP(10)`
+- [ ] Level [11](), grants [6]() `Boosts` :
+    - [ ] `Ability(Charisma, 2)`
+    - [ ] `Ability(Intelligence, 4)`
+    - [ ] `Ability(Strength, 6)`
+    - [ ] `Ability(Wisdom, 2)`
+    - [ ] `Skill(Insight, 5)`
+    - [ ] `Skill(Persuasion, 5)`
